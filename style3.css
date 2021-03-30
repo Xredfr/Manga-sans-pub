@@ -1,0 +1,30 @@
+h1{
+	text-align: center;
+    color: black;
+    font-family: impact;
+    position: absolute;
+    top:-10px;
+}
+
+#block1{
+	background-color: white;
+	height: 100px;
+	width: 180px;
+	border: 2px solid white;
+
+	position:absolute;
+	top:10px;
+	left:600px;
+    
+
+}
+
+
+
+body{
+	background-color: grey;
+}
+
+p{
+	text-align: center;
+}
